@@ -1,6 +1,29 @@
-hubs.txt
-Created Fri Nov  3 08:09:28 AKDT 2017
+hub.txt
+Created Mon Oct  9 13:03:16 AKDT 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Hubs
+Spacing
+=======
+The spacing of a hub is measured from the outside faces of the cone
+locknuts, where they come into contact with the frame's forkends.
+(Most cartridge-bearing type hubs don't have locknuts, so the spacing
+is measured from the equivalent shoulder surface of the axle ends.)
+The spacing dimension is commonly referred to as the "O.L.D."
+(Over-Lock-nut Distance)
+--www.sheldonbrown.com/frame-spacing.html
+
+
+A rockhopper?? It would be a 135mm rear.
+  --Rear Hub Spacing - A Question
+    Discussion in 'The Shop' started by ThoughtCancer, Jul 5, 2007.
+    http://ridemonkey.bikemag.com/threads/rear-hub-spacing-a-question.184000/
+
+
+
+Links
+=====
+Bicycle Frame/Hub Spacing
+by Sheldon "Cold Set" Brown
+Revised by John "Parallel" Allen
+https://www.sheldonbrown.com/frame-spacing.html
