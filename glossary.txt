@@ -1,0 +1,32 @@
+glossary.txt
+Created Mon Oct  9 13:27:08 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary
+
+
+Over-Locknut-Dimension (O.L.D) - The distance between the outermost
+  locknuts of a conventional hub axle, or whatever equivalent parts
+  fit against the inside surfaces of the fork ends of a frame.  They
+  must match the spacing (see chart) of the frame that the wheels
+  are to be installed in.
+  --Sheldon Brown's
+    Bicycle Glossary N - O
+    https://www.sheldonbrown.com/gloss_n-o.html#old
+
+Spacing(Dropout/Axle) - Frame spacing is the inside distance between the
+  two fork ends (drop outs), where the wheel fits in.  This can easily be
+  measured just by removing the wheel and holding a ruler up to the space
+  where the wheel came out.
+
+  Hubs come with various length axles, but the axle length is not as
+  critical as the overlocknut distance, since it is the locknuts that
+  actually contact the frame ends. Overlocknut distance can't be
+  measured directly without a caliper of some sort.
+
+  The dropout spacing of a frame must match the overlocknut distance of
+  the wheels that are to fit it.
+  --Sheldon Brown's
+    Bicycle Glossary Sp - Ss
+    https://www.sheldonbrown.com/gloss_sp-ss.html#spacing
