@@ -1,0 +1,37 @@
+spacing.txt
+Created Mon Oct  9 14:14:45 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+FIXME: Need to measure the Specialized Rockhopper
+spacing or O.L.D.
+
+
+Spacing
+=======
+The spacing of a hub is measured from the outside faces of the cone
+locknuts, where they come into contact with the frame's forkends.
+(Most cartridge-bearing type hubs don't have locknuts, so the spacing
+is measured from the equivalent shoulder surface of the axle ends.)
+The spacing dimension is commonly referred to as the "O.L.D."
+(Over-Lock-nut Distance)
+--www.sheldonbrown.com/frame-spacing.html
+
+
+Standard quick release front hubs = 100mm nut to nut
+20mm thru axle front hubs = 110mm
+Standard rear hubs = 135mm
+12mm rear hubs = 150mm-165mm
+
+--Thread: Standard F/R Hub Size
+  http://forums.mtbr.com/beginners-corner/standard-f-r-hub-size-456320.html
+
+
+aLinks
+=====
+Bicycle Frame/Hub Spacing
+by Sheldon "Cold Set" Brown
+Revised by John "Parallel" Allen
+https://www.sheldonbrown.com/frame-spacing.html
+
+Thread: Standard F/R Hub Size
+http://forums.mtbr.com/beginners-corner/standard-f-r-hub-size-456320.html
