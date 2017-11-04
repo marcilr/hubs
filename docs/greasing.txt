@@ -21,29 +21,59 @@ NOTE: The rear hub does have a 2.5mm hex nut on the non-drive side.
 TODO: Audit of materials and tools to add to each section below.
 
 
+Tools:
+  2x 5mm hex wrenchs
+  1x 2.5mm hex key
+  chain tool
+  HG cassette lock ring removal tool
+    Disassembly of one piece axle on rear ISO hub (see Figure 8), p. 12-13
+    1. Remove cassette lockring and cassette using a chain whip and HG cassette
+       lock ring removal tool.
+
+Lubricants:
+  Tri-flow
+  10w-30 synthetic oil
+  anti-seize to threads
+  lightly grease threads
+
+
 Sections
 ========
 Lubrication, Cold conditions, p. 7
 
+
 Front ISO Hub
 -------------
 Disassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+  2x 5mm hex wrenches
+
 Reassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+  1. Lightly grease threads on axle, adjusting cone and axle end.  Apply two drops
+     of Tri-flow or a quality 10w synthetic oil to axle O-ring.
+
 Adjustment of two piece axle on front ISO hub (see Figure 5), p. 8-9
+  2x 5mm hex wrenches
 
 
 Rear ISO Hub
 ------------
 Disassembly of one piece axle on rear ISO hub (see Figure 8), p. 12-13
+  1. Remove cassette lock ring and cassette using a chain whip and HG cassette
+     lock ring removal tool.
+
+  2. ...2.5mm hex key into "helper hole"...
 
 Reassembly of one piece axle on rear ISO hub (see Figure 8),  p. 13
-  -1. Lightly grease threads on adjusting clamp.  Apply two drops of Tri-flow to axle
-      O-ring. If using QR adaptors or FunBolts, apply anti-seize to threads before
-      threading them into the axle.
+  1. Lightly grease threads on adjusting clamp.  Apply two drops of Tri-flow to axle
+     O-ring.  If using QR adaptors or FunBolts, apply anti-seize to threads before
+     threading them into the axle.
 
+  2. Apply two drops of Tri-flow to driveshell O-ring.
 
 Adjustment of one piece axle on rear ISO hub (see Figure 8). p. 13-14
-  -2.5mm hex wrench
+  1. Loosen the adjusting clamp hex bolt using a 2.5mm hex wrench.
+  2. ...2.5mm hex key into "helper hole"...
+
 
 
 RingDrive
@@ -58,10 +88,13 @@ Reinstallation of the driveshell assembly. p. 18-19
   -Tri-flow, RingDrive lube
 
 Service of the bearings, p. 19
-
+  -WD-40 for cleaning
+  -RingDrive grease
 
 
 Universal Disc Brake Rotor Adaptors, p. 20
+  -grease to rotor adaptor bolts
+
 
 Additional Support, p. 21
   Check our web site of ten for updated movies and technical infor mation produced in
@@ -83,7 +116,7 @@ Chris King Precision Components (contact details), p. 24
 Lubrication, Cold conditions
 ============================
 "If you expect to be riding in temperatures that are consistently at or below freezing
-replace all internal lube with a qualit y 10w synthetic oil.  Do not over fill.  We
+replace all internal lube with a quality 10w synthetic oil.  Do not over fill.  We
 reccomend using a siliconal oil (Pedros SynLube or Mobil 1)
 isomanual_8_1_16.pdf, p. 7
 
