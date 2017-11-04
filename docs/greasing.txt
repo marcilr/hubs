@@ -1,0 +1,428 @@
+greasing.txt
+Created Fri Nov  3 19:53:20 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Greasing Chris King hubs
+
+
+isomanual_8_1_16.pdf
+  ISO Hub Manual
+  Chris King
+  Precision Components
+  Latest as of November 3, 2017
+  https://chrisking.com/files/public/content/media/document/4/9/isomanual_8_1_16.pdf
+
+
+
+NOTE: The rear hub does have a 2.5mm hex nut on the non-drive side.
+
+
+TODO: Audit of materials and tools to add to each section below.
+
+
+Sections
+========
+Lubrication, Cold conditions, p. 7
+
+Front ISO Hub
+-------------
+Disassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+Reassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+Adjustment of two piece axle on front ISO hub (see Figure 5), p. 8-9
+
+
+Rear ISO Hub
+------------
+Disassembly of one piece axle on rear ISO hub (see Figure 8), p. 12-13
+
+Reassembly of one piece axle on rear ISO hub (see Figure 8),  p. 13
+  -1. Lightly grease threads on adjusting clamp.  Apply two drops of Tri-flow to axle
+      O-ring. If using QR adaptors or FunBolts, apply anti-seize to threads before
+      threading them into the axle.
+
+
+Adjustment of one piece axle on rear ISO hub (see Figure 8). p. 13-14
+  -2.5mm hex wrench
+
+
+RingDrive
+=========
+The RingDrive, p. 17
+  -RingDrive grease, Tri-flow
+
+Service of the RingDrive, p. 18
+  -Hub Service Tool Kit
+
+Reinstallation of the driveshell assembly. p. 18-19
+  -Tri-flow, RingDrive lube
+
+Service of the bearings, p. 19
+
+
+
+Universal Disc Brake Rotor Adaptors, p. 20
+
+Additional Support, p. 21
+  Check our web site of ten for updated movies and technical infor mation produced in
+  an effort to help you, our customers, stay on your bike.
+  Visit: http://chrisking.com/tech/tech_movies.html
+  Additional questions? Please email us at info@chrisking.com or call the Customer
+  Service hotline at 800-523-6008.
+
+ISO Hub Specifications, p. 22
+  Which exact Hub Types did I get ???
+  Perhaps email or call above
+
+Wheel Building Information, p. 23
+Limited Warranty, p. 24
+Chris King Precision Components (contact details), p. 24
+
+
+
+Lubrication, Cold conditions
+============================
+"If you expect to be riding in temperatures that are consistently at or below freezing
+replace all internal lube with a qualit y 10w synthetic oil.  Do not over fill.  We
+reccomend using a siliconal oil (Pedros SynLube or Mobil 1)
+isomanual_8_1_16.pdf, p. 7
+
+
+Front ISO Hub
+=============
+
+Disassembly of two piece axle on front ISO hub (see Figure 5)
+=============================================================
+1. Insert 5mm hex wrenches into both ends of axle assembly.
+   * Pro Tip: Use a bench vice to hold one of the 5mm hex wrenches.
+
+2. Hold left hand stationary and turn right hand counterclockwise 1/4 
+   turn until assembly is loose.
+
+3. Loosen and unscrew adjusting cone and axle end until they are free from main axle.
+
+4. Slide out main axle.
+
+5. Both hub shell bearing assemblies can now be accessed.
+
+For bearing service information see "Service of the bearings", p. 17.
+isomanual_8_1_16.pdf, p. 8
+
+
+Reassembly of two piece axle on front ISO hub (see Figure 5)
+============================================================
+1. Lightly grease threads on axle, adjusting cone and axle end.  Apply two drops
+   of Tri-flow or a quality 10w synthetic oil to axle O-ring.
+
+2. Insert main axle into hub shell.
+
+3. If axle end and adjusting cone are assembled as one unit, disassemble by
+   threading axle end out of adjusting cone.
+
+4. Thread adjusting cone onto the protruding threads of main axle.
+
+5. Lightly snug adjusting cone up to bearing.
+
+6. Thread axle end into adjusting cone until it stops.
+
+7. Proceed to "Adjustment of two piece axle on front ISO hub", below.
+isomanual_8_1_16.pdf, p. 8
+
+
+
+
+Adjustment of two piece axle on front ISO hub (see Figure 5)
+============================================================
+1. Insert 5mm hex wrenches into both ends of axle assembly.
+   * Pro Tip: Use a bench vice to hold one of the 5mm hex wrenches
+
+2. Hold left hand stationary and turn right hand counter clockwise 1/4 turn until
+   assembly is loose.
+
+3. Hold hex wrenches stationary and adjust bearing preload with adjusting cone.
+
+4. Advance adjusting cone until it just contacts bearing, then back off approximately
+   1/16 turn (this allows for axle compression while under skewer clamp pressure).
+
+5. Once preload is set, tighten axle assembly to 110 inch-pounds.
+
+6. Double check adjustment by clamping wheel into fork with quick-release.
+   Check for play or binding, and readjust if needed.
+isomanual_8_1_16.pdf, p. 8-9
+
+
+
+Rear ISO Hub
+============
+
+
+Disassembly of one piece axle on rear ISO hub (see Figure 8)
+============================================================
+1. Remove cassette lock ring and cassette using a chain whip and HG cassette
+   lock ring removal tool.
+
+   *If using an XD Driveshell the End Cap is removed along with the cassette
+    use a small punch or small flat head screw driver to gently tap the Driveshell
+    End Cap out of the cassette.
+
+2. With adjusting clamp facing towards you, hold opposite end of axle stationary, and
+   rotate clamp in a counter clockwise direction to unscrew it from the thru-axle.  If
+   adjusting clamp is difficult to remove, insert a 2.5mm hex key into "helper hole" on
+   adjusting clamp adjacent to 2.5mm hex bolt. Use the hex key as a lever to unscrew
+   adjusting clamp.  Note: 142/157mm axles feature a steel axle end cap that will
+   pop off of axle end as adjusting clamp is pulled from axle.
+
+3. Remove axle by pulling on drive side end of axle.
+
+4. Hold hub or wheel in one hand and pull driveshell with other.
+
+5. Hub shell bearings, RingDrive internals and driveshell bearing assemblies can
+   now be accessed.
+
+   For RingDrive inspection and maintenance information, see "The RingDrive", pg. 15.
+
+   For bearing service information see "Service of the bearings", pg. 17
+
+isomanual_8_1_16.pdf, p. 12-13
+
+
+Reassembly of one piece axle on rear ISO hub (see Figure 8)
+===========================================================
+1. Lightly grease threads on adjusting clamp.  Apply two drops of Tri-flow to axle
+   O-ring. If using QR adaptors or FunBolts, apply anti-seize to threads before
+   threading them into the axle.
+
+2. Apply two drops of Tri-flow to drive shell O-ring.  Insert driveshell into the hub
+   shell; turn in a clockwise motion while letting it pull itself in.   A distinctive click
+   sound will indicate that the driveshell is firmly seated.
+
+3. Inser t finger from the non-drive side to push spring retainer to ensure Driveshell
+   is seated correctly
+
+4. Insert main axle, small end first in to driveshell.  Continue until axle is through the
+   hub and large end is firmly seated in driveshell.
+
+5. Thread adjusting clamp onto the protruding threads of axle.
+
+6. Snug the adjusting clamp up to the bear ing. Note: 142mm and 157mm axles feature
+   a steel axle end cap that must be hand-pressed back onto the end of the axle.
+
+7. Proceed to "Adjustment of one piece axle on rear ISO hub", pg. 10.
+
+isomanual_8_1_16.pdf, p. 13
+
+
+Adjustment of one piece axle on rear ISO hub (see Figure 8)
+===========================================================
+The one piece rear axle assembly features an adjusting clamp that minimizes over tight-
+ening or over preloading of the  bearings.  Adjustment may be accomplished while axle
+is attached to bicycle frame or in a truing stand.
+
+1. Loosen the adjusting clamp hex bolt using a 2.5mm hex wrench.
+
+2. Hand tighten the adjusting clamp onto the axle until it stops against the bearing.  If
+   adjusting clamp is difficult to move, insert a 2.5mm hex wrench into "helper hole"
+   on adjusting clamp adjacent to 2.5mm hex bolt. Use the hex key as a lever
+   to turn adjusting clamp.
+
+3. Once the adjusting clamp is in position, use a 2.5mm hex wrench to tighten
+   the adjusting clamp hex bolt to 10 inch-pounds.
+
+4. Check for play or binding and readjust if needed.
+
+isomanual_8_1_16.pdf, p. 13-14
+
+
+The RingDrive
+=============
+
+Inspection
+Having removed the axle and driveshell (as instructed in "Disassembly..." pgs 10
+and 11) the RingDrive is accessible through the large side of the hub shell.  Visually
+inspect the hub's interior.  Under normal conditions the grease should look moist and
+may have darkened slightly.  A modest film should coat the moving parts.
+
+As with the rest of the hub, the RingDrive is designed to operate with some water
+contamination.  Water intrusion can usually be remedied with basic maintenance.
+However, if foreign debris is detectable in the grease and/o r the grease looks hard
+or dry, then a complete removal and servicing of the RingDrive is necessary.
+
+Basic maintenance
+1. Take a clean, lint free rag and wipe any spent lubricant from inside the hub shell.
+   Be careful not to drag any dirt or debris from outside the hub into the interior area.
+
+2. Once the interior is clean in appearance, locate the helical splines of the
+   drive ring about an inch inside the large bearing.
+
+3. Using a tooth brush, pull the bristles across the helix in an outward direction.
+   Work your way all the way around the inner circumference to remove any
+   small particles that may be in the spline grooves.
+
+4. Once completed, wipe the area directly in front of the helix to remove any
+   debris.  This method should be used to clean the helix on the driveshell as well.
+   (If compressed air is available, blow across the helixes in line with the spline
+   grooves to remove any debris).
+
+With the interior wiped down and the helixes brushed clean, a fresh application of
+lubricant should be applied. The RingDrive is designed to work with our specially
+formulated low shear RingDrive grease.  Do not substitute other brands of grease,
+as they may be too sticky for the helix of the RingDrive.
+
+5. Lubricate by reopening a gap between the drive rings, and laying a bead of
+   RingDrive grease on the teeth between them.
+
+6. Apply a bead of RingDrive grease to helical splines on driveshell.  Then apply
+   a few drops of Tri-flow onto the helical splines and the o-ring of the driveshell.
+
+7. Before reinserting the drive shell into RingDrive area of the hub, the helical
+   splines must be clean of any debris. *An optional Stainless Steel driveshell
+   is available for riders who are experience above average wear.
+
+8. Proceed to "Reinstallation of the driveshell assembly" pg. 16.
+
+isomanual_8_1_16.pdf, p. 17
+
+
+Service of the RingDrive
+========================
+In addition to the basic maintenance of the RingDrive, a complete removal and servicing may be
+necessar y. Complete ser vice requires our Hub Ser vice Tool Kit and, as a basic guideline, should
+be per formed at least once ever y 12 to 24 months. See any authorized Chris King dealer for
+complete service or you may purchase a Hub Service Tool Kit from your dealer or directly from
+Chris King Precision Components.  Chris King Precision Components provides overhaul ser-
+vices at reasonable rates.  Contact the Customer Service hotline at 800-523-6008 for details.
+
+isomanual_8_1_16.pdf, p. 18
+
+
+Reinstallation of the driveshell assembly
+=========================================
+1. Check the helical splines of the driveshell for any particles or debris before
+   proceeding; the driveshell must be clean before installing.
+
+2. Apply several drops of Tri-Flow on the helical spline, O-ring, and tapered
+   diameter directly adjacent the O-ring. Apply a bead of RingDrive lube to the
+   helical splines.
+
+3. Insert driveshell into hubshell, slowly.  As the driveshell enters the RingDrive
+   area, it will want to mesh the helical splines of the drivering.  As it begins to
+   mesh, a slight clockwise turning motion of the driveshell will help pull it into
+   the hub shell.  Continue twisting as the driveshell pulls itself into the hub shell.
+   At the bottom of its inward movement, an audible "click" or "pop" sound
+   indicates that it has found home and is fully seated. The "click" or "pop" is the
+   bearing, indicating the driveshell is fully inserted.  Some pushing pressure on
+   the driveshell may be necessary to pop the spring retainer onto the end of
+   the driveshell.  You can check to make sure the driveshell is properly seated
+   by checking with your fingers from the non-drive side of the hubshell.
+
+4. Test engagement by spinning driveshell in both direc tions. If it does not engage,
+   remove driveshell, check cleanliness and reinsert. Retest.
+
+5. The hub is now ready to have the axle installed.
+
+Note: During removal of the driveshell unit the spring retainer plate can become off-
+centered. Be sure that the spring retainer is properly centered against the back of the
+spring area before reinstalling the driveshell. Make sure the o-ring is correctly seated.
+
+isomanual_8_1_16.pdf, p. 18-19
+
+
+Service of the bearings (see figure 11)
+=======================================
+Chris King sealed bearings have removable snap rings that hold the rubber seals
+in place.
+
+1. Carefully, using a small screwdriver, pick, or penknife, remove the snap ring by
+   inserting tool into split of snap ring.  Gently work one end of the snap ring toward
+   bearing center until it is out of its groove.  Follow the ring around with the tool
+   until the snap ring is completely dislodged.
+
+2. Lift and remove exposed rubber seal to access the interior of the bearing.
+
+3. Thoroughly flush the bearing with a lightspray lubricant (e.g., WD-40) and
+    blow dry.
+
+Note: Some solvents, synthetic lubr icants, and greases with high-pressure additives
+      may attack and damage seals and other nonmetallic materials.  Minimize exposure
+      to these substances and thoroughly dry hub after cleaning.
+
+4. Wipe dirt and other contaminants from the seals and snap rings.  Avoid
+   cleaning the seals with solvent, which could cause deterioration.
+
+5. Lay a bead of our RingDrive grease (see "Lubrication", pg. 6), filling the gap
+   between the inner and outer races 3/4 the way around bearing.  Do not
+   over fill bearing with lube, as this may cause excess drag.  Rotate the inner
+   race to work grease throughout the ball area.
+
+6. Reinstall black rubber seal between inner and outer bearing race.  If using the
+   original seal, reinstall using the same orientation as when they were originally
+   installed, as this will minimize drag.
+
+7. Insert one edge of snap ring into groove of outer bearing race.  Press along
+   entire groove until snap ring is fully seated; a small gap should be visible
+   between both ends of the snap ring.
+
+8. Turn inner race of bearing by hand to test for binding.  If bearings do not run
+   smooth, repeat steps 1-8. Binding is often a result of improperly seated seals
+   and/or snap rings.
+
+Used snap rings and seals can be reinstalled unless warped, punc tured, or other wise
+damaged. If damaged, replacement seals and snap rings are available from any
+authorized Chris King dealers or directly from Chris King Precision Components.
+
+isomanual_8_1_16.pdf, p. 19
+
+
+Universal Disc Brake Rotor Adaptors
+===================================
+Brake rotor adaptors are used on Universal Disc front and rear hubs to accommodate
+ISO and other disc brake systems. These various adaptors are offered in different
+widths to correctly position disc brake rotors.  Be sure to use the adaptor designed
+for your brake system.  Do not attempt to modify your adaptor to work with rotrs
+other than those for which they were designed. M ount the brake rotor according to
+manufacturer's instructions.  Rotor mounting bolts should thread 8mm into the rotor
+adaptor and must not extend through the brake rotor adaptor or contact the hub.
+
+
+Installation of rotor adaptor (see Figure 12)
+---------------------------------------------
+Before installation, thoroughly clean both the brake rotor adaptor and the splines on
+the hub shell. Any debris on the splines may not allow the rotor to run true, inhibiting
+the performance of the brake.
+
+1. Apply a light amount of grease to rotor adaptor bolts.  Do not use Loc-Tite or
+   other sleeving compound to secure rotor adaptor.
+
+2. Place the adaptor on to the splines.  When snug, the adaptor should leave an even
+   gap approximately the width of a piece of paper between the hub and the adaptor.
+
+3. Insert the three bolts provided.  In an alter nating pattern, hand tighten adaptor
+   bolts to pull adaptor down evenly.
+4. Using a 3mm hex wrench, finish torque to 28 inch pounds.  Do not over tighten.
+
+
+Removal of rotor adaptor (see Figure 12)
+----------------------------------------
+1. Remove the disc brake rotor if it covers the three mounting bolts.
+
+2. Remove the three adaptor mounting bolts using a 3mm hex wrench.
+
+3. To remove the rotor adaptor from the tapered splines, pr y bet ween the adaptor
+   and the hub using t wo opposing plastic tire levers (it should pop off easily). Do
+   not use metal objects, such as screw drivers, to release the adaptor.
+
+isomanual_8_1_16.pdf, p. 20
+
+
+
+
+Filelist
+========
+isomanual_8_1_16.pdf
+  ISO Hub Manual
+  Chris King
+  Precision Components
+  Latest as of November 3, 2017
+  https://chrisking.com/files/public/content/media/document/4/9/isomanual_8_1_16.pdf
+
+
