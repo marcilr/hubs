@@ -24,18 +24,36 @@ TODO: Audit of materials and tools to add to each section below.
 Tools:
   2x 5mm hex wrenchs
   1x 2.5mm hex key
-  chain tool
+  chain tool - Have Park Tool SR-1 chain tool
   HG cassette lock ring removal tool
     Disassembly of one piece axle on rear ISO hub (see Figure 8), p. 12-13
     1. Remove cassette lockring and cassette using a chain whip and HG cassette
        lock ring removal tool.
 
 Lubricants:
-  Tri-flow
-  10w-30 synthetic oil
+  Tri-flow - Have 
+  10w-30 synthetic oil - Have
   anti-seize to threads
-  lightly grease threads
+    Reassembly of one piece axle on rear ISO hub (see Figure 8),  p. 13
+    1. Lightly grease threads on adjusting clamp.  Apply two drops of Tri-flow to axle
+       O-ring.  If using QR adaptors or FunBolts, apply anti-seize to threads before
+       threading them into the axle.
 
+    Ain't nothing wrong with regular ole' Phil Wood, but I like to use anti-seize for
+    the bottom bracket.  I find that it makes threading the BB into the shell smoother
+    and it has never creaked.  The only disadvantage is that anti-seize is messy and
+    will stain anything, including your fingers, that it touches.  So wear gloves or
+    be real careful.
+
+    Titanium likes to seize. Period.
+    Go get yourself a $3 tube of anti-seize from the auto parts store.
+
+    Thread: To grease, anti-seize or loctite?
+    http://forums.mtbr.com/general-discussion/grease-anti-seize-loctite-9853.html
+
+  lightly grease threads - Phil Wood & Co Waterproof Grease
+    Have 3oz tube
+    http://www.philwood.com/products/gohc/oilngrease.php
 
 Sections
 ========
